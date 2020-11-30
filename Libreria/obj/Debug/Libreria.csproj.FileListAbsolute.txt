@@ -1,0 +1,6 @@
+C:\Users\iquir\Desktop\2_1_20_Actividad_Pruebas_Integracion (2)\2.1.20 Actividad Pruebas Integración\Pruebas de Integración .NET\Libreria\Libreria\bin\Debug\Libreria.dll
+C:\Users\iquir\Desktop\2_1_20_Actividad_Pruebas_Integracion (2)\2.1.20 Actividad Pruebas Integración\Pruebas de Integración .NET\Libreria\Libreria\bin\Debug\Libreria.pdb
+C:\Users\iquir\Desktop\2_1_20_Actividad_Pruebas_Integracion (2)\2.1.20 Actividad Pruebas Integración\Pruebas de Integración .NET\Libreria\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
+C:\Users\iquir\Desktop\2_1_20_Actividad_Pruebas_Integracion (2)\2.1.20 Actividad Pruebas Integración\Pruebas de Integración .NET\Libreria\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\iquir\Desktop\2_1_20_Actividad_Pruebas_Integracion (2)\2.1.20 Actividad Pruebas Integración\Pruebas de Integración .NET\Libreria\Libreria\obj\Debug\Libreria.dll
+C:\Users\iquir\Desktop\2_1_20_Actividad_Pruebas_Integracion (2)\2.1.20 Actividad Pruebas Integración\Pruebas de Integración .NET\Libreria\Libreria\obj\Debug\Libreria.pdb
